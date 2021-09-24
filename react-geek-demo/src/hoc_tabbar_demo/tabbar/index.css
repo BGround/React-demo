@@ -1,0 +1,21 @@
+.iconfont{
+    font-size: 28px !important;
+}
+
+.active{
+    color: red;
+}
+
+.tabbar{
+    height: 150px;
+    position: absolute;
+    padding: 5px 0;
+}
+  
+.tabbar.content{
+    display: flex;
+}
+  
+.tabbar-item{
+    flex: 1;
+}
